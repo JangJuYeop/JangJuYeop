@@ -1,6 +1,6 @@
 # Profile
 - Kyungpook National University, Majored Electronic Engineering
-- CodeStates Bootcamp
+- CodeStates Bootcamp 26th
 
 
 
