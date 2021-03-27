@@ -1,16 +1,20 @@
-### Hi there 👋
+# Profile
+- Kyungpook National University, Majored Electronic Engineering
+- CodeStates Bootcamp
 
-<!--
-**JangJuYeop/JangJuYeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Current
+- Learning Web, Especially Backend
+
+
+
+
+
+### Backend Stack
+- ![NODEJS](https://img.shields.io/badge/BACK-NODEJS-brightgreen)
+- ![EXPRESS](https://img.shields.io/badge/BACK-EXPRESS-lightgrey)
+- ![MYSQL](https://img.shields.io/badge/BACK-MYSQL-blue)
+- ![SEQUELIZE](https://img.shields.io/badge/BACK-SEQUELIZE-red)
