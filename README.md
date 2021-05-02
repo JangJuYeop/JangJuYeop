@@ -1,5 +1,5 @@
 # Profile
-- CodeStates Bootcamp IM Courese 26기 수료
+- CodeStates Bootcamp IM Course 26기 수료
 - Kyungpook National University, Majored Electronic Engineering
 
 
