@@ -2,4 +2,4 @@
 
 ## Tech Stack
 
-<center><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></center>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Java&logoColor=white"/>
