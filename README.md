@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Noah%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Noah&fontSize=60)
 
 # Profile
 - CodeStates Bootcamp IM Course 26기 수료
