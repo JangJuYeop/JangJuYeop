@@ -13,10 +13,10 @@
 
 ### Backend
 
-- **Node.js, Typescript, Express.js, Java, Spring**
-- **MySQL**
-- **AWS EC2, RDS, Lambda, API Gateway, Load Balancer, CloudWatch, S3**
-- **Git, Github, Jira, Bitbucket, SourceTree**
+- Node.js, Typescript, Express.js, Java, Spring
+- MySQL
+- AWS EC2, RDS, Lambda, API Gateway, Load Balancer, CloudWatch, S3
+- Git, Github, Jira, Bitbucket, SourceTree
 
 ### Education
 
