@@ -13,9 +13,8 @@
 
 ### Backend
 
-- Node.js, Typescript, Express.js, Java, Spring
+- Node.js, Typescript, Express.js, TypeORM
 - MySQL
-- AWS EC2, RDS, Lambda, API Gateway, Load Balancer, CloudWatch, S3
 - Git, Github, Jira, Bitbucket, SourceTree
 
 ### Education
